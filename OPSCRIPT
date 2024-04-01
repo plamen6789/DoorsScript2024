@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You have been permanently banned.")
+game.Players.LocalPlayer:Kick("You have been permanently banned. Reason: Happy April Fools from plamen6789rocks")
